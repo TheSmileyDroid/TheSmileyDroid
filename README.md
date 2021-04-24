@@ -1,16 +1,20 @@
 ### Hi there 👋
 
+### What I’m doing
+I’m currently working on a game series in Kotlin called Forgettable Memories. I’m currently learning Kotlin and Python mainly, but I want to learn something of Rust. 
+
+### Who I’m
+I’m a Brazilian student of programming and I am about to start university. I started make games in Godot and I have some unfinished projects in my itch.io, but now I want to go deeper into the code and make games in Kotlin. 
+
+How to reach me: My itch.io account is [smileydroid.itch.io](https://smileydroid.itch.io) and my twitter account is [@TheSmileyDroid](https://twitter.com/TheSmileyDroid)
+
+Fun fact: My friends call me Smile because I smile too much.
+
+My github info:
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSmileyDroid)
+
 <!--
 **TheSmileyDroid/TheSmileyDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
