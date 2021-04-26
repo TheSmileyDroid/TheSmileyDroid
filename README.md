@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### What I’m doing
-I’m currently making a series of games in Kotlin called Forgettable Memories. I am currently learning Kotlin and Python mainly, but I want to learn something about Rust.
+I’m currently making a series of games in Godot called Forgettable Memories. I am currently learning Kotlin and Python mainly, but I want to learn something about Rust.
 
 ### Who I’m
 I’m a Brazilian student of programming and I am about to start university. I started make games in Godot and I have some unfinished projects in my itch.io, but now I want to go deeper into the code and make games in Kotlin. 
