@@ -8,8 +8,6 @@ I’m a Brazilian student of programming and I am about to start university. I s
 
 How to reach me: My itch.io account is [smileydroid.itch.io](https://smileydroid.itch.io) and my twitter account is [@TheSmileyDroid](https://twitter.com/TheSmileyDroid)
 
-Fun fact: My friends call me Smile because I smile too much.
-
 My github info:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSmileyDroid)
