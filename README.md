@@ -7,6 +7,7 @@ I am currently learning C.
 I’m a Brazilian student of programming and I am studing at Unifesp. 
 
 My itch.io account is [smileydroid.itch.io](https://smileydroid.itch.io)
+
 My portifolio is here [smileydroid.vercel.app](https://smileydroid.vercel.app)
 
 My github info:
