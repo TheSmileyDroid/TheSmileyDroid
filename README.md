@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### What I’m doing
+### What am I doing
 I am currently learning C.
 
 ### Who I’m
