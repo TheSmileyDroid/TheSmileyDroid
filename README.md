@@ -2,7 +2,6 @@
 
 ### What am I doing
 I am currently learning C, C++ and Rust.
-Studying a lot in ICT-Unifesp.
 
 ### Who am I
 I’m a Brazilian student of programming and I am studing at Unifesp. 
