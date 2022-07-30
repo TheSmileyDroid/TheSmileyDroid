@@ -4,9 +4,7 @@
 I am currently learning C, C++ and Rust.
 
 ### Who am I
-I’m a Brazilian student of programming and I am studing at Unifesp. 
-
-My itch.io account is [smileydroid.itch.io](https://smileydroid.itch.io)
+I’m a Brazilian student of programming and I am studing at Unifesp.
 
 My github info:
 
