@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### What am I doing
-I am currently learning C, C++ and Rust.
+I am currently learning C, C++ and Golang.
 
 ### Who am I
 I’m a Brazilian student of programming and I am studing at Unifesp.
