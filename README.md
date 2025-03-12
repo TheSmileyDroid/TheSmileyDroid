@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### What am I doing
-1. I am currently making a sandbox colony simulation game using Monogame/C#
+1. I am currently making a Tower Defense Western Game called Frontier Plague, you can check it on this [repo](https://github.com/TheSmileyDroid/gunslingers)
 2. I am working at São José dos Campos City Hall as a Intern in Fullstack Developer with React + Laravel + Streamlit
 3. I am studying Computer Science at Unifesp
 
