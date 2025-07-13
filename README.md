@@ -1,14 +1,20 @@
-### Hi there 👋
 
-### What am I doing
-1. I am currently making a Tower Defense Western Game called Frontier Plague, you can check it on this [repo](https://github.com/TheSmileyDroid/gunslingers)
-2. I am working at São José dos Campos City Hall as a Intern in Fullstack Developer with React + Laravel + Streamlit
-3. I am studying Computer Science at Unifesp
+# 👋 Hi, I'm Gabriel Henrique Silva
 
-### Who am I
-My name is **Gabriel Henrique Silva**.
-I’m a Brazilian developer able to make games, websites and softwares.
+I'm a Brazilian developer engaged on technology, games, and data, always eager to learn, build, and explore new ideas. Currently:
 
-These are the skills I got since I started programming 7+ years ago:
+- 🎓 I'm studying Computer Science at Unifesp and developing a Tower Defense game as my final project (TCC).
+- 💼 I work as a Data Engineer Intern at Quero Educação, learning and working with tools like Airflow, Databricks, DBT, and AWS.
+- 🎮 I love playing and making digital games, and I also enjoy TTRPGs (tabletop RPGs).
+- 🎨 I create pixel art and am now learning to make vector art.
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,golang,js,ts,php,react,laravel,mysql,sqlite,unity,godot,dotnet,c,cpp,lua,bash,cmake,gradle,bots,flask,firebase,ruby&perline=8)](https://skillicons.dev)
+## 🚀 Skills
+With over 7 years of programming experience, I've worked with several languages, frameworks, and tools:
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,golang,js,ts,php,react,laravel,mysql,sqlite,unity,godot,dotnet,c,cpp,lua,bash,cmake,gradle,bots,flask,firebase,ruby,aws&perline=8)](https://skillicons.dev)
+
+---
+
+## 📫 How to reach me
+
+- LinkedIn: [gabriel-henrique-sd](https://www.linkedin.com/in/gabriel-henrique-sd/)
