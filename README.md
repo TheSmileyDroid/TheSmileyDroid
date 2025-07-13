@@ -4,7 +4,7 @@
 I'm a Brazilian developer engaged on technology, games, and data, always eager to learn, build, and explore new ideas. Currently:
 
 - 🎓 I'm studying Computer Science at Unifesp and developing a Tower Defense game as my final project (TCC).
-- 💼 I work as a Data Engineer Intern at Quero Educação, learning and working with tools like Airflow, Databricks, DBT, and AWS.
+- 💼 I work as a Data Engineer Intern at Quero Educação, learning and working with tools like Airflow, Spark, Databricks, DBT, and AWS.
 - 🎮 I love playing and making digital games, and I also enjoy TTRPGs (tabletop RPGs).
 - 🎨 I create pixel art and am now learning to make vector art.
 
